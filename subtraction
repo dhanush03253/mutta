@@ -1,0 +1,9 @@
+# Read two numbers from the user
+a = float(input("Enter first number: "))
+b = float(input("Enter second number: "))
+
+# Subtraction
+result = a - b
+
+# Display result
+print("Subtraction result =", result)
