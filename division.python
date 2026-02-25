@@ -1,0 +1,9 @@
+# Read two numbers from the user
+a = float(input("Enter first number: "))
+b = float(input("Enter second number: "))
+
+# Division
+result = a / b
+
+# Display result
+print("Division result =", result)
